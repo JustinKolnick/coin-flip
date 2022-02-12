@@ -1,5 +1,8 @@
 # Coin Flipper
 
+![Coin Flip animated gif](./coin-flip.gif)
+
+
 ### Setup
 1. Get Node and Yarn package manager
 2. `yarn add vite three`
